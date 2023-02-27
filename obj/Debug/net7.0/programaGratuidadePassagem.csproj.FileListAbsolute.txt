@@ -1,0 +1,15 @@
+D:\programaGratuidadePassagem\bin\Debug\net7.0\programaGratuidadePassagem.exe
+D:\programaGratuidadePassagem\bin\Debug\net7.0\programaGratuidadePassagem.deps.json
+D:\programaGratuidadePassagem\bin\Debug\net7.0\programaGratuidadePassagem.runtimeconfig.json
+D:\programaGratuidadePassagem\bin\Debug\net7.0\programaGratuidadePassagem.dll
+D:\programaGratuidadePassagem\bin\Debug\net7.0\programaGratuidadePassagem.pdb
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.csproj.AssemblyReference.cache
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.AssemblyInfoInputs.cache
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.AssemblyInfo.cs
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.csproj.CoreCompileInputs.cache
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.dll
+D:\programaGratuidadePassagem\obj\Debug\net7.0\refint\programaGratuidadePassagem.dll
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.pdb
+D:\programaGratuidadePassagem\obj\Debug\net7.0\programaGratuidadePassagem.genruntimeconfig.cache
+D:\programaGratuidadePassagem\obj\Debug\net7.0\ref\programaGratuidadePassagem.dll
